@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 cout<<"name: marthed ahmed mohammed ali  \n claas: 2nd class \n department: copmuter engineering"
